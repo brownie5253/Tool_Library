@@ -1,0 +1,16 @@
+/Users/connor/Documents/Sem 1 2021/CAB 301/Assignment/Tool_Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.csprojAssemblyReference.cache
+/Users/connor/Documents/Sem 1 2021/CAB 301/Assignment/Tool_Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.AssemblyInfoInputs.cache
+/Users/connor/Documents/Sem 1 2021/CAB 301/Assignment/Tool_Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.AssemblyInfo.cs
+/Users/connor/Documents/Sem 1 2021/CAB 301/Assignment/Tool_Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.csproj.CoreCompileInputs.cache
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/bin/Debug/netcoreapp3.1/Tool_Library.deps.json
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/bin/Debug/netcoreapp3.1/Tool_Library.runtimeconfig.json
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/bin/Debug/netcoreapp3.1/Tool_Library.runtimeconfig.dev.json
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/bin/Debug/netcoreapp3.1/Tool_Library.dll
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/bin/Debug/netcoreapp3.1/Tool_Library.pdb
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.csprojAssemblyReference.cache
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.AssemblyInfoInputs.cache
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.AssemblyInfo.cs
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.csproj.CoreCompileInputs.cache
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.dll
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.pdb
+/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/obj/Debug/netcoreapp3.1/Tool_Library.genruntimeconfig.cache

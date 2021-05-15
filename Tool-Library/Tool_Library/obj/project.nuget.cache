@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmSAjDUMO4aybKJUnhW8ovYvo3VHnDBdyT6iadKqgQ0X18y7dK9dUrpTfVR35qtX5qCEnqqFn1cIpddqeJNrqA==",
+  "success": true,
+  "projectFilePath": "/Users/connor/Documents/GitHub/Tool-Library/Tool_Library/Tool_Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/connor/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
